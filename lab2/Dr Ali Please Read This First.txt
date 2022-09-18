@@ -1,0 +1,18 @@
+Dear Dr Ali,
+
+To run the program:
+1. in C://www, create a new folder called lab2
+2. Place all contents of this file in lab2
+So, lab 2 would look like:
+lab2/create.php
+lab2/delete.php
+etc...
+
+3. To create the database, go to localhost/create.php
+4. To start off, go to localhost/display.php, and the
+interface contains create, read, update, and delete features
+
+To create a contact, click on "Create Contact"
+To update a contact, click on edit
+to delete a contact, click on delete
+
