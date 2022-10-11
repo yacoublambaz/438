@@ -1,0 +1,6 @@
+To bypass security issue:
+1. Go to folder where the loadXMLDataAjax.html is
+2. Open a command prompt, and enter "python -m http.server 8080"
+3. Now, from the launched server, open loadXMLDataAjax.html and you can use it regularly
+
+Or use whatever way you want to bypass the security :) 
