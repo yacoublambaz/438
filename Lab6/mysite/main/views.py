@@ -6,8 +6,6 @@ from .models import Player, Team
 def players(request):
   if request.method == "POST":
     form = PlayerForm(request.POST)
-    print(PlayerForm())
-    print(form)
     if form.is_valid():
       form.save()
   players = Player.objects.all()
